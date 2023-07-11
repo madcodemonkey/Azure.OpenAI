@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenAIConsoleExample1", "OpenAIConsoleExample1\OpenAIConsoleExample1.csproj", "{D47F0743-36EB-4172-A125-4F66CC53D4DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FEA6DDA3-EDD2-4952-AFF3-FA2B04E2A274}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D47F0743-36EB-4172-A125-4F66CC53D4DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47F0743-36EB-4172-A125-4F66CC53D4DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47F0743-36EB-4172-A125-4F66CC53D4DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47F0743-36EB-4172-A125-4F66CC53D4DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7C1E8E7-9115-4D73-96DA-413D021BFC63}
+	EndGlobalSection
+EndGlobal
